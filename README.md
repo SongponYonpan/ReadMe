@@ -8,13 +8,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
 
-- :telescope: I’m working as a Software Engineer, PLC, web and mobile dev, and robotic programing.
+- :telescope: I work as a software engineer, PLC, web and mobile development, and robotic programming in Thailand.
 
-- :seedling: 
+- :seedling: bachelor's degree in computer engineering, web and mobile application development diploma
 
-- :zap: In my free time, I practice coding and play guitar, sometimes workout.
+- :zap: In my free time, I practice coding, play guitar, and sometimes work out.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Songpon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/songpon-yonpan-065a03a0/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Songpon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/songpon-yonpan-065a03a0/)
 
 ---
 
