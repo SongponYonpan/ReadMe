@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer, PLC, web and mobile dev, and robotic programing.
 
-- :seedling: Exploring Technical Content Writing
+- :seedling: 
 
 - :zap: In my free time, I practice coding and play guitar, sometimes workout.
 
