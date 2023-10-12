@@ -22,9 +22,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,css,dotnet,flutter,angular,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=github,html,java,js,mongodb,nodejs,react,visualstudio" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=git,c,cs,css,dotnet,flutter,angular,bootstrap,sqlserver" />
+    <img src="https://skillicons.dev/icons?i=github,html,java,js,mongodb,nodejs,react,visualstudio,vscode" />
   </a>
 </p>
 
