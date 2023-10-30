@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moncton New Brunswick Canada.
 
 - :telescope: I work as a software engineer, PLC, web and mobile development, and robotic programming in Thailand.
 
